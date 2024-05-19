@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+May 18, 2024 - This is the current official 'signing' key for ything.net
+
+Other keys currently remain valid; however, this is the most "trusted" key to use for signatures and communication.
+
+- -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: Valid from:	5/18/24 8:00 PM
+Comment: Valid until:	5/18/27 11:58 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
+Comment: Fingerprint:	E4D0C0D1B2A5E32A3C7167F33F65097A8F3EC6DA
+
+mDMEZklBHRYJKwYBBAHaRw8BAQdAXPvP0eg4rwjCvK793GMatv8lpb4/sTg3Ipdh
+8NgNgda0HURhdmlkIFNlbmsgPGRhdmlkQHl0aGluZy5uZXQ+iJgEExYKAEECGwMF
+CwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AWIQTk0MDRsqXjKjxxZ/M/ZQl6jz7G
+2gUCZklBmgUJBaPSZgAKCRA/ZQl6jz7G2gdTAPdS9C0d7MkhRfFuXGC04hxBS6wu
+3ZZZvjDIza5uLCShAQDe/erQFxo4PvS/G9iSE87P7suf7hvXP8THIZrNNdHcBLgz
+BGZJQR0WCSsGAQQB2kcPAQEHQDfhVrUm9sFUy28z5I9pBHiLTRkGlqtag8sf/0sn
+kSsdiHgEGBYKACAWIQTk0MDRsqXjKjxxZ/M/ZQl6jz7G2gUCZklBHQIbIAAKCRA/
+ZQl6jz7G2nRGAQCbkugGisUNwRNWIRwDY38ulzviz+OqB04rQY1i0KaxzAD/Ryjx
+KiVxEyqzF46lkoCuAgtVQG+vqFu5tZR8xf37hAq4OARmSUEdEgorBgEEAZdVAQUB
+AQdAcXUZNm8A5xT5mywDVn7WEnSuUK5tzQQI3cZeXhFG/FYDAQgHiHgEGBYKACAW
+IQTk0MDRsqXjKjxxZ/M/ZQl6jz7G2gUCZklBHQIbDAAKCRA/ZQl6jz7G2sI2AQD3
+0bCvvQbKOjzks2RxGV5yopOKn9BD+siu+tzoW3g7ZAD/e4hxmzgDR1/bCOe0rTMe
+D0SOWfyIQtSyCdq1SKQHmwE=
+=E5fg
+- -----END PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTk0MDRsqXjKjxxZ/M/ZQl6jz7G2gUCZklEHwAKCRA/ZQl6jz7G
+2tIVAP9HBNcHzxws34LYrDIwZ+VbZ+bkTXYNN0MqGmlfBhL5DgEA2sFI8JmAhCn7
+8azUKjt/49CnO4UYw3Ra0XLmB1qruQ8=
+=kWpi
+-----END PGP SIGNATURE-----
+
